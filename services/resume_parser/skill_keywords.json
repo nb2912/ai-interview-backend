@@ -1,0 +1,69 @@
+{
+    "technical_skills": [
+      "Python",
+      "Java",
+      "C++",
+      "JavaScript",
+      "SQL",
+      "NoSQL",
+      "AWS",
+      "Azure",
+      "Docker",
+      "Kubernetes",
+      "React",
+      "Angular",
+      "Node.js",
+      "TensorFlow",
+      "PyTorch",
+      "Machine Learning",
+      "Data Analysis",
+      "Web Development",
+      "Agile",
+      "Scrum",
+      "Git",
+      "RESTful APIs"
+    ],
+    "soft_skills": [
+      "Communication",
+      "Teamwork",
+      "Leadership",
+      "Problem-solving",
+      "Critical Thinking",
+      "Time Management",
+      "Adaptability",
+      "Creativity",
+      "Interpersonal Skills",
+      "Negotiation",
+      "Presentation Skills"
+    ],
+    "tools": [
+      "Jira",
+      "Confluence",
+      "Slack",
+      "Trello",
+      "Microsoft Office Suite",
+      "Google Workspace"
+    ],
+    "programming_languages": [
+      "C#",
+      "Ruby",
+      "Go",
+      "Swift",
+      "Kotlin",
+      "PHP"
+    ],
+    "databases": [
+      "PostgreSQL",
+      "MySQL",
+      "MongoDB",
+      "Cassandra",
+      "Redis"
+    ],
+    "frameworks": [
+      "Spring",
+      "Django",
+      "Vue.js",
+      "Express.js",
+      "ASP.NET"
+    ]
+  }
